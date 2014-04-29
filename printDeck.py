@@ -1,3 +1,5 @@
+# Much of this code is copied from https://gitorious.org/l5r-deck-printer
+
 import urllib2
 import urllib
 import re
